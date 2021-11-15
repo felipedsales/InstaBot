@@ -1,3 +1,3 @@
 # InstaBot
-Bot para Instagram
+Bot para Instagram /n
 Fechado com Robô
